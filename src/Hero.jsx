@@ -5,12 +5,12 @@ const Hero = () => {
     <section className="hero">
       <div className="hero-center">
         <div className="hero-title">
-          <h1>Contentful CMS</h1>
+          <h1>All Projects at one place</h1>
           <p>
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Numquam
-            reprehenderit quam sunt ducimus eos iure, laborum sit expedita
-            aspernatur adipisci voluptatem voluptate incidunt aut doloribus
-            ipsam? Nemo magnam dicta exercitationem.
+            <b>"Web Development Portfolio:</b> Unveiling a Collection of
+            Stunning Projects by <b>Priyanshu Jha.</b> Showcasing a Range of
+            Impressive Websites and Web Applications. I have mentioned all small
+            and big projects build by me.
           </p>
         </div>
         <div className="img-container">
